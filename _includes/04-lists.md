@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] 1. Computers
+- [ ] 2. Video Games
+- [ ] 3. Board Games
